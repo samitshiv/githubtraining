@@ -4,3 +4,7 @@ Type Application
 Colors
 Vibrant
 Dark mode
+
+payment option
+send money
+receive money
