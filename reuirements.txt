@@ -3,3 +3,4 @@ Emoji
 Type Application
 Colors
 Vibrant
+Dark mode
